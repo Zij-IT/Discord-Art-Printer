@@ -1,5 +1,6 @@
 #define OLC_PGE_APPLICATION
 #include "olcPixelGameEngine.h"
+
 constexpr int game_width = 200;
 constexpr int game_height = 200;
 

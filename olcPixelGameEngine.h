@@ -7,7 +7,7 @@
 	+-------------------------------------------------------------+
 
 	What is this?
-	~~~~~~~~~~~~~
+~~~~~~~~~~~~
 	olc::PixelGameEngine is a single file, cross platform graphics and userinput
 	framework used for games, visualisations, algorithm exploration and learning.
 	It was developed by YouTuber "javidx9" as an assistive tool for many of his
